@@ -12,12 +12,12 @@ Initializing Repository
 
 Repo initialization:
 
-    $ repo init -u https://github.com/starixv/platform_manifest.git -b n7.1
+     repo init -u https://github.com/starixv/platform_manifest.git -b n7.1
 
 
 sync repo :
 
-    $ repo sync
+     repo sync
 
 Some info on how to customize your sync:
 
