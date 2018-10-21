@@ -17,7 +17,7 @@ Repo initialization:
 
 sync repo :
 
-     repo sync
+     repo sync -f --force-sync --no-clone-bundle -c --no-tags
 
 Some info on how to customize your sync:
 
